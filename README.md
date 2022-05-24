@@ -1,0 +1,9 @@
+- 👋 Hello there, I am Santosh Kumar Panda
+- I was University Gold Medalist in my Masters.
+- I have done my Mphil degree in Image processing.
+- I am currently pursuing my Ph.D. from NIT Rourkela
+- I am a DST Inspire fellow , Funded by Govt of India
+- 👀 I’m interested in Computer vision, Image Processing and Machine learning
+- 🌱 I’m currently learning Deep learning
+- 💞️ I’m looking to collaborate on the above topics
+- 📫 You can reach me through my email sonupanda1995@gmail.com
