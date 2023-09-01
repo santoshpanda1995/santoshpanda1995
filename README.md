@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Panda &nbsp;<img src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/cat.gif" width="50px"></h1>
 
-<h3 align="center"> 💻 PhD Senior Research fellow 📊</h3>
+<h3 align="center"> 💻 PhD Senior Research fellow 📊 <p>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=santoshpanda1995&label=PROFILE+VIEWS" alt="santoshpanda1995" /></p></h3>
+
+
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santoshpanda1995" alt="santoshpanda1995" /></a> </p>
 <p align="center">
