@@ -39,7 +39,11 @@
     <img align="center" alt="Santosh Kumar Panda | Gmail" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/Gmail.svg" />
   </a><br><br><br>
 </p>
-  
-  ![Emys's Stats](https://github-readme-stats.vercel.app/api?username=santoshpanda1995&show_icons=true&theme=radical)
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshpanda1995&" alt="santoshpanda1995" />
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshpanda1995&show_icons=true&locale=en&layout=compact" alt="santoshpanda1995" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshpanda1995&show_icons=true&locale=en&theme=radical" alt="santoshpanda1995" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshpanda1995&" alt="santoshpanda1995" /></p>
