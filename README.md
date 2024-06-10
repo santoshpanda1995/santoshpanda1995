@@ -38,7 +38,10 @@
     <img align="center" alt="Santosh Kumar Panda | Researchgate" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/ResearchGate_icon_SVG.svg.png" />
   </a>
    <a href="https://www.scopus.com/authid/detail.uri?authorId=58960654900">
-    <img align="center" alt="Santosh Kumar Panda | Scopus" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/scopus.jpg" />
+    <img align="center" alt="Santosh Kumar Panda | Scopus" width="35px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/scopus.jpg" />
+  </a>
+    <a href="https://santoshpanda1995.github.io/portfolio/">
+    <img align="center" alt="Santosh Kumar Panda | Github Portfolio" width="35px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/github.png" />
   </a>
   <a href="mailto:sonupanda1995@gmail.com">
     <img align="center" alt="Santosh Kumar Panda | Gmail" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/Gmail.svg" />
